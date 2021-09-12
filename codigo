@@ -15,9 +15,16 @@ Comandos Git
 	No remote podemos usar a versao HTTPS ou SSH
 	
 	
+	gi reflog - ver o nome dos commits feitos ate o momento (Historico)
 	
-		
+	git reset --hard "nome do commit listado no comando anterior"
 	
 	
+	Branch - caminhos diferentes no caminho de desenvolvimento
+	git branch - ver todas as branchs 
+	git branch "nome da branch" - criar uma nova branch
+	git chechout "nome da branch"	- mudar de branch
+	
+	 
 	
 	
