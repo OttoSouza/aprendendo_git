@@ -28,11 +28,16 @@ Comandos Git
 	
 	Depois de criar uma nova branch e adicionar novas informacoes vamos adicionar essas novas informacoes na branch principal. Para isso usamos o merge. 
 	
+	
 	Primeiro: Ir para branch que ira receber as novas atualizacoes que seria a master
 		git checkout master
 	
-	Segundo: Antes de fazer o merge atualize sua branch principal que seria a master nesse exemplo. Para isso use: 
+	Segundo: Antes de fazer o merge (unir) atualize sua branch principal que seria a master nesse exemplo. Para isso use: 
 		git pull.
+	
+	Terceiro: git push para enviar as alteracoes recebidas da branch temporario que esta unida coma principal e enviar para o repo.
+	
+	
 	
 	
 	
