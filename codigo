@@ -12,9 +12,11 @@ Comandos Git
 	git push - Depois do git add para adicionar suas modificacoes dentro do controle de versionamento e o git commit -m para adicionar uma descricao a esse controle, usamos o git push para enviar todas as alteracoes adicionadas para o  git. Porem precisamos dizer para qual repositorio no github devemos enviar essas alteracoes para isso cria-se um repositorio no git e usa o comando abaixo
 	
 	git remote add origin "url_do_projeto" - define para onde o codigo sera enviado. feito isso voltamos ao comando anterior git push.
+	No remote podemos usar a versao HTTPS ou SSH
 	
 	
 	
+		
 	
 	
 	
