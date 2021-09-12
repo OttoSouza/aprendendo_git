@@ -1,3 +1,21 @@
 Comandos Git
 
 	git init - inicializar um repositorio no git
+	
+	git status - saber se o status do codigo e ver as alteracoes estao atualizadas. (Relatorio)
+	
+	git add "nome do arquivo" - adicionar ao controle de versao (Nesse caso arquivo por arquivo)
+	git add . - adiciona todos os arquivos que ainda nao foram para o controle de versao.
+	
+	git commit -m "descricao do commit" - usamos o commit para descrever o que ira ser adicionado nessa versao do commit.
+	
+	git push - Depois do git add para adicionar suas modificacoes dentro do controle de versionamento e o git commit -m para adicionar uma descricao a esse controle, usamos o git push para enviar todas as alteracoes adicionadas para o  git. Porem precisamos dizer para qual repositorio no github devemos enviar essas alteracoes para isso cria-se um repositorio no git e usa o comando abaixo
+	
+	git remote add origin "url_do_projeto" - define para onde o codigo sera enviado. feito isso voltamos ao comando anterior git push.
+	
+	
+	
+	
+	
+	
+	
