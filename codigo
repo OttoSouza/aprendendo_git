@@ -25,6 +25,12 @@ Comandos Git
 	git branch "nome da branch" - criar uma nova branch
 	git chechout "nome da branch"	- mudar de branch
 	
-	 
+	
+	Depois de criar uma nova branch e adicionar novas informacoes vamos adicionar essas novas informacoes na branch principal. Para isso usamos o merge. 
+	
+	Primeiro: Ir para branch que ira receber as novas atualizacoes que seria a master
+		git checkout master
+	
+	
 	
 	
