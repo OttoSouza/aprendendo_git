@@ -31,6 +31,9 @@ Comandos Git
 	Primeiro: Ir para branch que ira receber as novas atualizacoes que seria a master
 		git checkout master
 	
+	Segundo: Antes de fazer o merge atualize sua branch principal que seria a master nesse exemplo. Para isso use: 
+		git pull.
+	
 	
 	
 	
